@@ -1,0 +1,5 @@
+#lang racket
+
+(define (average x y ) 0)
+
+(provide average)
